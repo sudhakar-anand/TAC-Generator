@@ -10,7 +10,7 @@ Prequisites: **gcc** (C language compiler) , **lex** (generates lexical analyzer
 							    **chmod +x run**
 - To build executable : **./build**
 - To run the sample bc code in file sample_input: **./test_run**
-- To run custom bc code : **./run**
+- To run user input bc code : **./run**
 
 **FILES :**
 - **lp.l**	 - lex file
