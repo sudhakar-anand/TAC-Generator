@@ -5,8 +5,8 @@ Recommended **OS: ubuntu**.
 Prequisites: **gcc** (C language compiler) , **lex** (generates lexical analyzers) and **yacc** (generates parser) 
 
 **To run the program run following command in terminal :**
-- To give execution permission to build, test_run and run : **chmod +x build**
-							    **chmod +x test_run**
+- To give execution permission to build, test_run and run : **chmod +x build**, 
+							    **chmod +x test_run** and 
 							    **chmod +x run**
 - To build executable : **./build**
 - To run the sample bc code in file sample_input: **./test_run**
