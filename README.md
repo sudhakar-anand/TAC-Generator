@@ -1,4 +1,4 @@
-# Intermediate-3-address-code-Generator : Program to generate 3-address code.
+# Intermediate-3-address-code-Generator : Program to generate 3-address intermediate code.
 
 Recommended **OS: ubuntu**.
 
