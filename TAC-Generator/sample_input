@@ -1,0 +1,27 @@
+//complex expression
+y=5;
+x=12+13*y/4-7;
+print x;
+
+read a;
+if(a==10) //nested if condition
+then{print 0;}
+else{
+	if(a==5) 
+        then {print 1;} 
+        else {print 2;}
+}
+
+counter=0;
+//nested for loop 
+for(i=0;i<2;i++){
+	for(j=2;j<=4;j++){
+		for(k=5;k<7;k++){
+			counter++;
+		}
+	}
+}
+print counter;
+
+exit;
+

@@ -1,0 +1,14 @@
+printf "Enter code :\n\n"
+
+./lp <sample_input >tac.c
+
+gcc tac.c -o tac
+
+printf "\n\nIntermediate code :\n\n"
+
+cat tac.c
+
+printf "\n\nExecution starts:\n\n"
+
+./tac
+

@@ -1,0 +1,6 @@
+lex lp.l 
+
+yacc lp.y 2> warning 
+
+gcc -w y.tab.c -ll -ly -o lp
+
